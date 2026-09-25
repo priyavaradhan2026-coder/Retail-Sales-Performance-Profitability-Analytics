@@ -1,6 +1,6 @@
 # Retail-Sales-Performance-Profitability-Analytics
 
-# Retail Sales Performance & Profitability Analytics
+# Retail Sales Performance & Profitability Analytics (documentation)
 
 An end-to-end Power BI dashboard analyzing retail sales performance and profitability for a retail company, covering 2024-2025 data.
 
