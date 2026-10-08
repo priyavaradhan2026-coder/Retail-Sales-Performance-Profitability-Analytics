@@ -41,3 +41,14 @@ Star schema:
 - `YTD Sales = TOTALYTD([Total Sales], DimDate[Date])`
 - `Target Sales = SUM(MonthlyTargets[Target_Amount])`
 - `Target Achievement %
+
+
+## Dashboard Preview
+
+![Executive Overview](Executive%20overview%20%28page%201%29.png)
+
+![Product and Customer Analysis](product%20and%20customer%20analysis%28page%202%29.png)
+
+![Product Details](product%20details%20%28page%203%29.png)
+
+![Regional Performance](Regional%20performance.png)
